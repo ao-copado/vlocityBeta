@@ -1,1 +1,1 @@
-# betaDX - TrailheaDX demo repository
+# VlocityBeta - TrailheaDX demo repository
