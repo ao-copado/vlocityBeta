@@ -1,0 +1,15 @@
+{
+    "%vlocity_namespace%__AdditionalInformation__c": "Help pay a customer bill.",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__PropertySet__c": "VPL_Pay-Bill-Assisted_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "Pay Bill Assisted",
+    "%vlocity_namespace%__TestHTMLTemplates__c": "VPL_Pay-Bill-Assisted_English_HTMLTemplates.html",
+    "%vlocity_namespace%__Type__c": "VPL",
+    "Name": "AssistedPayBill",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/VPL/Pay Bill Assisted/English"
+}
